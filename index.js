@@ -133,3 +133,4 @@ require("./lib/component/visualMapPiecewise");
 require("zrender/lib/vml/vml");
 
 require("zrender/lib/svg/svg");
+console.log(55555)
